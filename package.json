@@ -1,5 +1,5 @@
 {
-  "name": "react-b",
+  "name": "react-xxx",
   "version": "1.0.0",
   "description": "React-b",
   "main": "index.js",
@@ -17,7 +17,7 @@
   "author": "Oscar Barajas <oscar@dragons.mx>",
   "license": "ISC",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg-xxx": "./bin/global.js"
   },
   "preferGlobal": true,
   "dependencies": {
