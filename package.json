@@ -1,7 +1,7 @@
 {
-  "name": "react-base",
+  "name": "react-b",
   "version": "1.0.0",
-  "description": "React Base",
+  "description": "React-b",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode production",
@@ -16,8 +16,8 @@
   ],
   "author": "Oscar Barajas <oscar@dragons.mx>",
   "license": "ISC",
-  "bin": { 
-      "random-msg": "./bin/global.js"
+  "bin": {
+    "random-msg": "./bin/global.js"
   },
   "preferGlobal": true,
   "dependencies": {
